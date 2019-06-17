@@ -5,3 +5,7 @@ Based on the collated works on APT groups by Thai cert, found here;
 https://www.dropbox.com/s/ds0ra0c8odwsv3m/Threat%20Group%20Cards.pdf
 
 Really basic search tool. String matches by sector, apt name ot technique and returns a pandas dataframe or de duplicated list depending on the request.
+
+Will require the install of pandas, 0.24 as its written in python 2.7. https://pandas.pydata.org/pandas-docs/stable/install.html
+
+The csv file should sit in the same folder as the python script and all should work well hopefully.
