@@ -1,0 +1,274 @@
+apt,sector,techniques
+Anchor Panda <CrowdStrike>:APT 14 <Mandiant>:Aluminium <Microsoft>:QAZTeam,"Aerospace, Defense, Engineering, Government, Industrial,  NGO","Gh0st RAT, Poison Ivy, Torn RAT"
+Allanite <Dragos>:Palmetto Fusion <DHS>,Energy,"Inveigh, Powershell scripts, PSExec, SecreetsDump, THC Hydra"
+APT 3 <Mandiant>:Gothic Panda <CrowdStrike>:Buckeye <Symantec>:TG-0110 <SecureWorks>:UPS Team <Symantec>:Group 6 <Talos>,"Aerospace, Construction, Defense, High-Tech, Manufacturing,
+Technology, Telecommunications, Transportation","APT3 Keylogger, Bemstour, CookieCutter, DoublePulsar, EternalBlue, HTran,
+Hupigon, Kaba, LaZagne, OSInfo, Pirpi, PlugX, shareip, SHOTPUT, TTCalc,
+w32times, IE 0Day, Firefox 0Day, Flash 0Day"
+APT 5 <FireEye>,"Defense, High-Tech, Industrial, Technology, Telecommunications",LEOUNCIA
+APT 6 <FireEye>:1.php Group <Zscaler>,Government,Poison Ivy
+APT 12 <Mandiant>:Numbered Panda <CrowdStrike>:TG-2754 <SecureWorks>:BeeBus <FireEye>:Calc Team <Symantec>:Group 22 <Talos>:Crimson Iron <ThreatConnect>,"Defense, Electronics, Government, High-Tech, Telecommunications, Journalists","AUMLIB, DynCalc/DNSCalc, ETUMBOT, HIGHTIDE, IXESHE, RapidStealer,
+RIPTIDE, THREEBYTE, WaterSpout"
+APT 16 <Mandiant>:SVCMONDR <Kaspersky,"Financial, Government, High-Tech, Media","ELMER, IRONHALO, SVCMONDR"
+APT 17 <Mandiant>:Tailgater Team <Symantec>:Dogfish <iDefense>:Deputy Dog <iDefense>,"Defense, Government, IT, Mining, NGOs,  lawyers","9002 RAT, BLACKCOFFEE, DeputyDog, HiKit, PlugX, IE 0day"
+APT 18 <Mandiant>:Dynamite Panda <CrowdStrike>:TG-0416 <SecureWorks>:Wekby <Palo Alto>:Scandium <Microsoft>,"Aerospace, Biotechnology, Construction, Defense, Education,
+Engineering, Healthcare, High-Tech, Telecommunications, Transportation","Gh0st RAT, hcdLoader, HTTPBrowser, Pisloader, Roseam, StickyFingers, Flash 0day."
+APT 19 <Mandiant>:Codoso <CrowdStrike>:Sunshop Group <FireEye>,"Defense, Education, Energy, Financial, Government, High-Tech,
+Manufacturing, Pharmaceutical, Telecommunications, Think Tanks, political
+dissidents, Forbes","C0d0so, Cobalt Strike, Empire, Derusbi, Flash 0day"
+APT 20 <FireEye>:APT 8 <Mandiant>:Violin Panda <Crowdstrike>:TH3Bug <Palo Alto>,"Chemical, Construction, Defense, Energy, Engineering, Financial,
+Government, Healthcare, High-Tech, Pharmaceutical, Telecommunications,Transportation","CAKELOG, CANDYCLOG, CETTRA, COOKIECLOG, PlugX, Poison Ivy"
+APT 29 <Mandiant>:Cozy Bear <CrowdStrike>:The Dukes <F-Secure>:Group 100 <Talos>:Yttrium <Microsoft>:Iron Hemlock <SecureWorks>:Minidionis <Palo Alto>:CloudLook <Kaspersky>:Grizzly Steppe <US Government> :Sofacy:APT 28:Fancy Bear: Sednit,"Defense, Energy, Government, Imagery, Law Enforcement, Media, NGOs,
+Pharmaceutical, Telecommunications, Think Tanks, Transportation","ATI-Agent, CloudDuke, Cobalt Strike, CosmicDuke, CozyDuke, CozyCar,
+GeminiDuke, HammerDuke, HAMMERTOSS, meek, Mimikatz, MiniDuke,
+OnionDuke, PinchDuke, POSHSPY, PowerDuke, SeaDaddy, SeaDuke, tDiscoverer"
+APT 30 <Mandiant>:Override Panda <CrowdStrike>,"Defense, Government, ASEAN","BACKBEND, BACKSPACE, CREAMSICLE, FLASHFLOOD, GEMCUTTER,
+MILKMAID, NETEAGLE, ORANGEADE, SHIPSHAPE, SPACESHIP"
+APT 32 <Mandiant>:OceanLotus <SkyEye Labs>:SeaLotus:APT-C-00 <360>:Ocean Buffalo <CrowdStrike>,"Government, Hospitality, Manufacturing, Retail, dissidents, journalists, ASEAN","CACTUSTORCH, Cobalt Strike, Cuegoe, Denis, fingerprintjs2, Goopy, KerrDown,
+KOMPROGO, Mimikatz, Nishang, OSX_OCEANLOTUS.D, PHOREAL,PowerSploit, Salgorea, SOUNDBITE, Terracotta VPN, WINDSHIELD, MS Office 0day"
+APT 33 <Mandiant>:Elfin <Symantec>:Magnallium <Dragos>,"Aviation, Defense, Energy, Petrochemical","AutoIt backdoor, DarkComet, DROPSHOT, Empire, LaZagne, Mimikatz, NanoCore
+RAT, NETWIRE RC, PoshC2, PowerSploit, POWERTON, PupyRAT, QuasarRAT,
+Remcos, Ruler, Shamoon, SHAPESHIFT, TURNEDUP"
+Axiom <Novetta>:Group 72 <Talos>,"High profile organizations with high value intellectual property in
+Aerospace, Defense, Industrial, Manufacturing, Media","Cobalt Strike, DeputyDog, Derusbi, Gh0st RAT, Hikit, HydraQ, PlugX, Poison Ivy,
+ShadowPad Winnti, ZXShell"
+Bahamut <Bellingcat>,"Political, economic, social","Bahamut, DownPaper"
+Barium <Microsoft>,"Multimedia, Online video game companies, Technology","Barlaiy, Cobalt Strike, PlugXL, Winnti"
+Berserk Bear <CrowdStrike>:Dragonfly 2.0 <Symantec>:Dymalloy <Dragos>,Energy,"Bitsadmin, Goodor, Impacket, Karagany, Phisherly"
+Blackgear <Trend Micro>:Topgear,"Japan, South Korea, Taiwan populus","Comnie, Elirks, Protux"
+BlackOasis <Kaspersky>,"Media, Think Tanks, activists, UN","FinFisher, FinSpy, WingBird, Flash 0day"
+BlackTech <Trend Micro>,"Financial, Government, Healthcare, Technology","BIFROST, DRIGO, KIVARS, PLEAD, XBOW"
+Blind Eagle <360>:APT-C-36 <360>,"Financial, Government, large companies ",Imminent Monitor RAT
+Blue Termite <Kaspersky>:Cloudy Omega <Symantec>,"Automotive, Chemical, Construction, Education, Energy, Financial, Food
+and Agriculture, Government, Healthcare, High-Tech, Industry, IT, Media, Real
+estate, Telecommunications, Transportation","Emdivi,  Hacking Team breach tools"
+Bookworm <Palo Alto>,Government.,"Bookworm, FFRAT, Poison Ivy, PlugX, Scieron"
+Bronze Bulter <SecureWorks>:Tick <Symantec>:RedBaldNight <Trend Micro>,"Critical infrastructure, Defense, Government, Industry, International
+relations, Manufacturing, Technology","Daserf, Datper, gsecdump, Mimikatz, Minzen, Muirim, Nioupale, rarstar, Windows
+Credential Editor, xxmm"
+Buhtrap <Group-IB>,Financial,"AmmyyRAT, Buhtrap, Niteris EK, NSIS, Ratopak"
+Cadelle <Symantec>,Various countries ,ANTAK and Cadelspy
+Callisto Group <F-Secure>,"Defense, Government, Think Tanks, journalists",RCS Callisto
+Carbanak <Kaspersky>:Anunak <Group-IB>:Carbon Spider <CrowdStrike>,Financial,"Agent ORM, AmmyyRAT, ANTAK, Ave Maria, BABYMETAL, Backdoor Batel,
+Bateleur, BELLHOP, MBR Eraser, Cain & Abel, Carbanak, Cobalt Strike,
+DNSMessenger, DNSRat, DRIFTPIN, Griffon, HALFBAKED, JS Flash, KLRD,
+Mimikatz, MBR Eraser, Netscan, Odinaff, POWERPIPE, POWERSOURCE,
+PSExec, Sekur, SocksBot, SoftPerfect Network Scanner, SQLRat, Team Viewer,
+TinyMet, VB Flash"
+Careto <Kaspersky>:The Mask <Kaspersky>:Mask <Kaspersky>:Ugly Face <Kaspersky>,"Diplomatic missions, Education, Energy, Government",Careto
+Chafer <Symantec>:APT 39 <Mandiant>,"Airlines, Airports, Engineering, Government, High-Tech, IT, Shipping and
+Logistics, Telecommunications, Transportation","ASPXSpy, CACHEMONEY, EternalBlue, HTTPTunnel, MechaFlounder Mimikatz,
+NBTScan, Non-sucking Service Manager <NSSM>, Plink, POWBAT, Pwdump,
+Remcom, Remexi, SEAWEED, SMB hacking tools, UltraVNC, Windows Credential Editor"
+Charming Kitten <CrowdStrike>:Newscaster <Symantec>:NewsBeef <Kaspersky>:Group 83 <Talos>:Parastoo <Flashpoint>,"Defense, Government","DownPaper, FireMalv, MacDownloader , Stealer Builder"
+Clever Kitten <CrowdStrike>:Group 41 <Talos>,Companies <Contrary to Iranian interests>,"Acunetix Web Vulnerability Scanner, PHP Webshell RC SHELL"
+Cobalt Group <Group-IB>:Cobalt Gang <Palo Alto>:Cobalt Spider <CrowdStrike>:Gold Kingswood <SecureWorks>,Financial,"AmmyyRAT, ATMSpitter, ATMRipper Cobalt Strike, CobInt, Cyst Downloader,
+Mimikatz, Metasploit Stager, More_eggs, SDelete, SoftPerfect Network Scanner, SpicyOmelette"
+Cold River <Lastline>:Nahr el bared <original place>:Nahr Elbard <transliteration>,Middle east orgs,Agent_drable
+Comment Crew <Symantec>:Comment Panda <CrowdStrike>:TG-8223 <SecureWorks>:APT 1 <Mandiant>:BrownFox <Symantec>:Group 3 <Talos>:Byzantine Hades <US State Department>:Byzantine Candor <US State Department>:Shanghai Group <SecureWorks>:GIF89a <Kaspersky>,"Aerospace, Chemical, Construction, Education, Energy, Engineering,
+Entertainment, Financial, Food and Agriculture, Government, Healthcare, High-
+Tech, IT, Manufacturing, Media, Mining, Navigation, Non-profit organizations,
+Research, Satellites, Telecommunications, Transportation, lawyers","Auriga, bangat, BISCUIT, Bouncer, Cachedump, CALENDAR, Combos,
+CookieBag, Dairy, GetMail, GLOOXMAIL, Goggles, gsecdump, Hacksfase,
+Helauto, Kurton, Lslsass, ManItsMe, MAPIget, Mimikatz, MiniASP, NewsReels,
+Pass-The-Hash Toolkit, Poison Ivy, pwdump, SeaSalt, ShadyRAT, StarsyPound,
+Sword, TabMsgSQL, Tarsip, Tasklist, WebC2-AdSpace, WebC2-Ausov, WebC2-
+Bolid, WebC2-Cson, WebC2-DIV, WebC2-GreenCat, WebC2-Head, WebC2-Kt3,
+WebC2-Qbp, WebC2-Rave, WebC2-Table, WebC2-UGX, WebC2-Yahoo"
+Confucius <Palo Alto>,Country level,"ApacheStealer, ByeBye Shell, Confucius, MY24, sctrls, remote-access-c3 and
+sip_telephone, swissknife2 , Sneepy"
+CopyKittens <Trend Micro>:Slayer Kitten <CrowdStrike>,"Defense, Education, Government, IT, Media","Cobalt Strike, Empire, Matryoshka, TDTESS, Vminst, ZPP"
+Corkow <Group-IB>:Metel <Kaspersky>,Financial,"Corkow, Metel"
+Covellite <Dragos>,Energy,Lazarus toolkits
+Cutting Kitten <CrowdStrike>:TG-2889 <SecureWorks>,"Aerospace, Airlines, Airports, Chemical, Defense, Education, Energy,
+Financial <banks: Bank of America, US Bancorp, Fifth Third Bank, Citigroup, PNC,
+BB&T, Wells Fargo, Capital One and HSBC>, Government, Healthcare, Oil and gas,
+Technology, Telecommunications, Transportation,Utilities","CsExt, Jasus, KAgent, Net Crawler, PvcOut, SynFlooder, TinyZBot, WndTest, ZhMimikatz"
+Dark Caracal <Lookout>,"Defense, Education, Financial, Government, Healthcare, Manufacturing,
+Utilities, activists, lawyers, journalists","Bandook, CrossRAT, FinFisher, Pallas"
+DarkHotel <Kaspersky>:APT-C-06 <360>:SIG25 <NSA>:Dubnium <Microsoft>:Fallout Team <FireEye>:Shadow Crane <CrowdStrike>,"Defense, Energy, Government, Healthcare, NGOs, Pharmaceutical,
+Research, Technology","DarkHotel, GreezeBackdoor, Luder, Nemim, Pioneer, Tapaoux"
+DarkHydrus <Palo Alto>:LazyMeerkat <Kaspersky>,"Education, Government","Cobalt Strike, Mimikatz, Phishery, RogueRobin"
+Deep Panda <CrowdStrike>:APT 26 <Mandiant>:Shell Crew <RSA>:WebMasters <Kaspersky>:KungFu Kittens <FireEye>:Group 13 <Talos>:PinkPanther <RSA>:Black Vine <Symantec>,"Defense, Financial, Government, Non-profit organizations,
+Telecommunications, Think Tanks","Cobalt Strike, Derusbi, JerseyMikes, Mivast, PlugX, Sakula, StreamEx, Tasklist"
+Desert Falcons <Kaspersky>:APT-C-23 <360>:Two-tailed Scorpion <360>,"Defense, Education, Government, Infrastructure","FrozenCell, GlanceLove, GnatSpy, KASPERAGENT, MICROPSIA, VAMP, ViperRAT"
+DNSpionage <Talos>,"Airlines, Government, Law Enforcement, Telecommunications, Internet infrastructure","DNSpionage, Karkoff"
+Domestic Kitten <Check Point>,Country level,Mobile RATS
+Donot Team <ASERT>:PT-C-35 <360>,Government,"EHDevel, yty"
+DragonOK <FireEye>,"High-Tech, Manufacturing","FormerFirstRAT, HelloBridge, HTRAN, IsSpace, KHRAT, NewCT, NFlog, PlugX,
+Poison Ivy, Rambo, Sysget, TidePool"
+DustSquad <Kaspersky>,Government,Octopus
+Dust Storm <Cylance>,"Energy, Oil and gas","Gh0st RAT, Misdat, MiS-Type, Poison Ivy, S-Type"
+Elderwood <Symantec>:Elderwood Gang <Symantec>:Sneaky Panda <CrowdStrike>:SIG22 <NSA>:Beijing Group <SecureWorks>,"Defense, Education, Energy, Financial, Government","Briba, Gh0st RAT, Hydraq, Linfo, Naid, Nerex, Pasam, Poison Ivy, Vasport, Wiarp"
+El Machete <Kaspersky>,"Defense, Embassies, Government, Telecommunications",Machete
+Energetic Bear <CrowdStrike>:Dragonfly <Symantec>:Crouching Yeti <Kaspersky>:Group 24 <Talos>:Koala Team <iSight>:Iron Liberty <SecureWorks>:Electrum <Dragos>,"Construction, Education, Energy, Industrial, IT, Manufacturing, Oil and gas, Pharmaceutical","Commix, CrashOverride, Dirsearch, Dorshel, Havex RAT, Hello, Heriplor, Impacket,
+Industroyer, Inveigh, Karagany, Lightsout, Listrix, nmap, Oldrea, PHPMailer,
+PSExec, SMBTrap, Sqlmap, Subbrute, Sublist3r, Sysmain, Wpscan, Commix, CrashOverride, Dirsearch, Dorshel, Havex RAT, Hello, Heriplor, Impacket,
+Industroyer, Inveigh, Karagany, Lightsout, Listrix, nmap, Oldrea, PHPMailer,
+PSExec, SMBTrap, Sqlmap, Subbrute, Sublist3r, Sysmain, Wpscan, WSO"
+Equation Group <real name>:Tilded Team <CrySys>,"Aerospace, Defense, Energy, Government, Media, Nanotechnology,
+Nuclear research, Oil and gas, Telecommunications, Transportation, Islamic
+activists, scholars, cryptographic technologies","DarkPulsar, DOUBLEFANTASY, DoublePulsar, EQUATIONDRUG,
+EQUATIONLASER, EQUESTRE, FANNY, GROK, Lambert, Plexor, Regin,
+TRIPLEFANTASY, many others"
+Emissary Panda <CrowdStrike>:APT 27 <Mandiant>:LuckyMouse <Kaspersky>:Bronze Union <Secureworks>:TG-3390 <SecureWorks>:EMP.Hippo <Symantec>:Group 35 <Talos>,"Defense, Education, Embassies, Government, Technology,
+Telecommunications, Think Tanks","Antak, ASPXSpy, China Chopper, Gh0st RAT, gsecdump, HTTPBrowser, Hunter,
+HyperBro, Mimikatz, Nishang, OwaAuth, PlugX, PSExec, Upatre, Windows
+Credential Editor, ZipToken"
+FIN4 <FireEye>:Wolf Spider <CrowdStrike>,"Financial, Healthcare, Pharmaceutical",Various
+FIN5 <FireEye>,"Gaming, Hospitality","FLIPSIDE, pwdump, RawPOS, Sdelete, Windows Credential Editor"
+FIN6 <FireEye>:Skeleton Spider <CrowdStrike>,"Hospitality, Retail","AbaddonPOS, Cobalt Strike, FrameworkPOS, GRABNEW, Grateful POS,
+LockerGoga, Ryuk, Windows Credential Editor, WMI"
+FIN7 <FireEye>,"Casinos and Gaming, Construction, Education, Energy, Financial,
+Government, High-Tech, Hospitality, Retail, Technology, Telecommunications,
+Transportation, Travel","Astra, Bateleur, Carbanak, Cobalt Strike, Griffon, HALFBAKED, POWERSOURCE,
+SQLRAT, TEXTMATE"
+FIN8 <FireEye>,"Hospitality, Retail","PunchBuggy, PunchTrack, ShellTea"
+FIN10 <FireEye>,"Casinos, Mining","Empire, SplinterRAT"
+Flying Kitten <CrowdStrike>:Ajax Security Team <FireEye>:Group 26 <Talos>,"Defense, dissidents","Sayyad, Stealer."
+Gallmaker <Symantec>,"Defense, Embassies, Government",Custom malware
+Gamaredon Group <Palo Alto>,"Defense, Government, Law enforcement","FRAUDROP, Gamaredon, Pteranodon, Resetter"
+GCMAN <Kaspersky>,Financial,"Malicious RAR archives, Putty, VNC, Meterpreter"
+GhostNet <Information Warfare Monitor>:Snooping Dragon <UCAM>,"Embassies, Government, Media, NGOs","Gh0st RAT, Skype"
+Goblin Panda <CrowdStrike>:Cycldek <Kaspersky>,"Defense, Energy, Government","HttpTunnel, NewCore, PlugX, QCRat, Sisfader, ZeGhost"
+Goldmouse <360>:APT-C-27 <360>,Country level,"GoldenRAT, njRAT, WinRAR exploit"
+Gorgon Group <Palo Alto>:Subaat <Palo Alto>,Government,"Crimson, LokiBot, NanoCore RAT, njRAT, QuasarRAT, Remcos, Revenge RAT"
+GozNym <IBM>,Financial,"GozNym, Nymaim, Gozi ISFB"
+Group5 <Citizen Lab>,Country level,"DroidJack, NanoCore RAT, njRAT"
+Hidden Lynx <Symantec>:Aurora Panda <CrowdStrike>:Group 8 <Talos>,"Construction, Defense, Education, Financial, Food and Agriculture,
+Engineering, Healthcare, IT, Government, Media, Non-profit organizations,
+Pharmaceuticals, Retail, lawyers","HiKit, Moudoor, Naid"
+Honeybee <McAfee>,Humanitarian aid,"SYSCON, Systeminfo, Tasklist"
+Hurricane Panda <CrowdStrike>:Zirconium <Confiant>:APT 31 <Mandiant>:TEMP.Avengers <Symantec>,"Technology, Telecommunications","9002 RAT, China Chopper, Gh0st RAT, HiKit, Mimikatz, PlugX, Sakula RAT, Trochilus RAT"
+Icefog <Kaspersky>:Dagger Panda <CrowdStrike>,"Defense, Government, High-Tech, Maritime and Shipbuilding, Media,
+Telecommunications, Water","Dagger Three, Fucobha, Icefog, Javafog"
+Inception Framework <Symantec>,"Defense, Embassies, Engineering, Financial, Government, Oil and gas","Inception, Lastacloud"
+Infy <Palo Alto>:Prince of Persia <Palo Alto>:Operation Mermaid <360>,"Government, private sectors","Foudre, Infy"
+Iridium <Resecurity>,"Government, Oil and gas, Technology","China Chopper, Ckife Webshells, LazyCat, reGeorge"
+Ke3chang <FireEye>:Vixen Panda <CrowdStrike>:APT 15 <Mandiant>:GREF <SecureWorks>:Playful Dragon <FireEye>:Royal APT <NCC Group>,"Aerospace, Airlines, Chemicals, Defense, Embassies, Energy,
+Government, High-Tech, Industry, Manufacturing, Mining, Oil and gas, Utilities","Cobalt Strike, Metushy, Mimikatz, MirageFox, MS Exchange Tool, Royal DNS,
+RoyalCli, spwebmember, Systeminfo, Tasklist, TidePool, Winnti"
+Kimsuky <Kaspersky>:Velvet Chollima <CrowdStrike>,"Government, Defense","Grease, KPortScan, MailPassView, Mechanical, Mimikatz, Network Password
+Recovery, Procdump, PSExec, Remote Desktop PassView, SniffPass, WebBrowserPassView"
+Lazarus Group <Kaspersky>:Labyrinth Chollima <CrowdStrike>:Group 77 <Talos>:Hastati Group <SecureWorks>:Whois Hacking Team <McAfee>:NewRomanic Cyber Army Team <McAfee>:Zinc <Microsoft>:Hidden Cobra <Trend Micro>:Nickel Academy <SecureWorks>:APT-C-26 <360>,"Engineering, Financial, Government, Technology, BitCoin exchanges","AuditCred, AlphaNC, Alreay, AppleJeus, Appleworm, BADCALL, Bankshot,
+BanSwift, Bitsran, Brambul, BravoNC, Castov, Contopee, DeltaNC, Destover,
+Dozer, DoublePulsar, Duuzer, ELECTRICFISH, EternalBlue, FallChill RAT,
+FASTCash, Fimlis, Gh0st RAT, HARDRAIN, Hawup, Hermes, HOPLIGHT,
+HtDnDownLoader, Joanap, Jokra, KEYMARBLE, KillDisk, Koredos, Lazarus,
+Manuscrypt, Mimikatz, Mydoom, Mytob, NukeSped, PhanDoor, PowerRatankba,
+PowerSpritz, Proxysvc, RatabankaPOS, RawDisk, Rifdoor, Rising Sun, RomeoNC,
+SHARPKNOT, SheepRAT, SierraNC, Tdrop, Tdrop2, Troy, TYPEFRAME, Volgmer,
+WannaCry, WolfRAT, Yort"
+Lead <Microsoft>,"Online videogame companies, Pharmaceutical, Technology, Telecommunications","Cobalt Strike, Winnti"
+Leafminer <Symantec>:Raspite <Dragos>,"Energy, Financial, Government, Transportation","Imecab, LaZagne, PhpSpy, Mimikatz"
+Leviathan <CrowdStrike>:APT 40 <Mandiant>:TEMP.Periscope <FireEye>:TEMP.Jumper <FireEye>:Bronze Mohawk <SecureWorks>:Mudcarp <iDefense>,"Maritime-related targets across multiple verticals, including Defense,
+Engineering, Government, Manufacturing, Research, Shipping, Transportation","AIRBREAK, BADFLICK, Beacon, BITSAdmin, BLACKCOFFEE, China Chopper,
+Cobalt Strike, Derusbi, Gh0st RAT, GRILLMARK, HOMEFRY, LUNCHMONEY,
+MURKYTOP, NanHaiShu, Orz, PHOTO, PlugX, scanbox, SeDLL, Windows
+Credential Editor, ZXShell"
+Longhorn <Symantec>:The Lamberts <Kaspersky>,"Aerospace, Education, Energy, Financial, Government, IT, Telecommunications","Black Lambert, Blue Lambert, Corentry, Gray Lambert, Green Lambert, Green OS
+X Lambert, LH1, LH2, Pink Lambert, Plexor, White Lambert"
+Lotus Blossom <Palo Alto>:Spring Dragon <Kaspersky>:Dragonfish <iDefense>,"Defense, Education, Government, Telecommunications","Elise, Emissary"
+Lucky Cat <Symantec>,"Aerospace, Defense, Engineering, Shipping, Tibetan activists.","Sojax, Wimmie"
+Lurk <Kaspersky>,Financial and Media,Lurk
+Mabna Institute <real name>:Silent Librarian <SecureWorks>,Universities,Spear phishing
+Madi <Kaspersky>:Mahdi <Kaspersky>,"Education, Engineering, Financial, Government, Oil and gas, Think Tanks",Madi
+Covellite:Magic Hound <Palo Alto>:APT 35 <Mandiant>:Cobalt Gypsy <SecureWorks>:Rocket Kitten <CrowdStrike>:TEMP.Beanie <FireEye>:Timberworm <Symantec>:Tarh Andishan <Cylance>,"Energy, Government, Technology","CWoolger, DistTrack, FileMalv, Ghambar, Ghole, Havij, Leash, Matryoshka RAT,
+Mimikatz, MPKBot, NETWoolger, PupyRAT, sqlmap, TDTESS, Woolger"
+Moafee <FireEye>,"Defense, Government","HTRAN, Mongall, NewCT2, Nflog, Poison Ivy"
+Mofang <Fox-IT>,"Automotive, Critical infrastructure, Defense, Government, weapon industries","ShimRAT, ShimRatReporter, Superman"
+Molerats <FireEye>:Extreme Jackal <CrowdStrike>:Gaza Cybergang <Kaspersky>:Gaza Hackers Team <Kaspersky>,"Aerospace, Defense, Embassies, Financial, Government, Oil and gas,
+journalists, software developers","DustySky, Molerat Loader, NeD Worm, njRAT, Poison Ivy, Scote, XtremeRAT"
+MoneyTaker <Group-IB>,Financial,"Citadel, Kronos, Metasploit, MoneyTaker, Screenshotter"
+MuddyWater <Palo Alto>:Seedworm <Symantec>:TEMP.Zagros <FireEye>:Static Kitten <CrowdStrike>,"Defense, Education, Food, Gaming, Government, IT, Media, NGOs, Oil
+and gas, Telecommunications, Transportation","ChromeCookiesView, chrome-passwords, CLOUDSTATS, CrackMapExec,
+DELPHSTATS, EmpireProject, FruityC2, Koadic, LaZagne, Meterpreter, Mimikatz.
+MZCookiesView, PowerSploit, POWERSTATS, SHARPSTATS, Shoorback, Smbmap"
+Mustang Panda <CrowdStrike>,"Think tank, NGOs","PlugX, Poison Ivy"
+Naikon <Kaspersky>:Hellsing <Kaspersky>:Lotus Panda <CrowdStrike>,"Defense, Energy, Government, Law Enforcement, Media","Hdoor, Naikon, JadeRAT, NewCore RAT, PlugX, RARSTONE, Sisfader, SslMM,
+Sys10, Systeminfo, Tasklist, TeamViewer, WinMM, xsPlus"
+Neodymium <Microsoft>,Country level,Wingbird
+NetTraveler <Kaspersky>:APT 21 <Mandiant>,"Defense, Embassies, Government, Oil and gas, Scientific research centers
+and institutes, activists","NetTraveler/TravNet, PlugX"
+Night Dragon <McAfee>,"Energy, Oil and gas, Petrochemical","ASPXSpy, Cain & Abel, gsecdump, zwShell."
+Nightshade Panda <CrowdStrike>:APT 9 <Mandiant>:Group 27 <ASERT>,"Energy, Government","9002 RAT, EvilGrab, MoonWind RAT, PlugX, Trochilus RAT"
+Nitro <Symantec>:Covert Grove <Symantec>,"Chemical, Human Rights NGOs, Motor industry, Technology","Farfli, PCClient, Poison Ivy, Spindest"
+OilRig <Palo Alto>:APT 34 <FireEye>:Helix Kitten <CrowdStrike>:Twisted Kitten <CrowdStrike>:Crambus <Symantec>:Chrysene <Dragos>,"Chemical, Energy, Financial, Government, Telecommunications","Alma Communicator, BONDUPDATER, certutil, DistTrack, Fox Panel, Glimpse,
+GoogleDrive RAT, Helminth, HighShell, HyperShell, IRN2, ISMAgent, ISMDoor,
+ISMInjector, Jason, LaZagne, Mimikatz, OopsIE, PoisonFrog, POWRUNER,
+QUADAGENT, RGDoor, SEASHARPEE, Shamoon, SpyNote, StoneDrill,
+Systeminfo, Tasklist, TwoFace, Webmask"
+Operation BugDrop <CyberX>,"Engineering, Oil and gas, Media, Research",Dropbox
+Operation Ghoul <Kaspersky>,"Education, Engineering, Industrial, Manufacturing, IT, Pharmaceutical,
+Shipping and Logistics, Tourism, Trading",ShopBot
+Operation Groundbait <ESET>,"Government, politicians, journalists",Prikormka
+Operation Parliament <Kaspersky>,"Defense, Education, Energy, Financial, Government, Healthcare, Media,
+Research, Shipping and Logistics, Sports, Telecommunications",Remote CMD/PowerShell terminal
+Operation Potao Express <ESET>,Country level,"FakeTC, Patao"
+Orangeworm <Symantec>,"Healthcare, as well as related industries as part of a larger supply-chain
+attack such as Healthcare providers, Manufacturing, IT, Pharmaceuticals","Kwampirs, Systeminfo"
+PassCV <Blue Coat Systems>,Online videogame companies,"Cobalt Strike, Gh0st RAT, Kitkiot, Netwire, Sabresac, Winnti, ZXShell"
+Patchwork <Cymmetria>:Dropping Elephant <Kaspersky>:Chinastrats <Kaspersky>:APT-C-09 <360>:Monsoon <Forcepoint>:Quilted Tiger <CrowdStrike>,"Aviation, Defense, Energy, Financial, Government, IT, Media, NGOs,
+Pharmaceutical, Think Tanks","AndroRAT, AutoIt backdoor, BADNEWS, Bahamut, MazeRunner, NdiskMonitor,
+PowerSploit, QuasarRAT, Sarit, Socksbot, Steladoc, TINYTYPHON WSCSPL, Unknown Logger"
+Pirate Panda <CrowdStrike>:APT 23 <Mandiant>:KeyBoy <Rapid7>,Country level,CREDRIVER
+PittyTiger <FireEye>:Pitty Panda <CrowdStrike>:Manganese <Microsoft>,"Government, Telecommunications, Web development","Gh0st RAT, gsecdump, Lurid, Mimikatz, Paladin, pgift, Pitty, Poison Ivy"
+Platinum <Microsoft>:TwoForOne <Kaspersky>,"Defense, Government, Intelligence agencies, Telecommunications","adbupd, AMTsol, Dipsind, JPIN"
+Poseidon Group <Kaspersky>,"Energy, Financial, Government, Media, Manufacturing,Telecommunications, Utilities",IGT supertool.
+Promethium <Microsoft>:StrongPity <Kaspersky>,Country level,Truvasys
+Putter Panda <CrowdStrike>:TG-6952 <SecureWorks>:APT 2 <Mandiant>:Group 36 <Talos>:Sulphur <Microsoft>,"Defense, Government, Research, Technology <Communications,Space, Aerospace>.","3PARA RAT, 4H RAT, httpclient, MSUpdater, pngdowner, SearchFire"
+Rancor <Palo Alto>:Rancor Group <Palo Alto>,"Government, political entities","certutil, DDKONG, PLAINTEE"
+Reaper <FireEye>:APT 37 <Mandiant>:Ricochet Chollima <CrowdStrike>:Group 123 <Talos>:Red Eyes <AhnLab>:Venus 121 <ESRC>,"Aerospace, Automotive, Chemical, Financial, Government, Healthcare,Manufacturing, Technology","CORALDECK, DOGCALL, Final1stSpy, Freenki Loader, HAPPYWORK, KARAE,KevDroid, N1stAgent, NavRAT, Nokki, PoohMilk Loader, POORAIM, ROKRAT, SHUTTERSPEED, SLOWDRIFT, WINERACK, Flash 0day, MS Office exploits"
+Roaming Tiger <ESET>,Country level,"BBSRAT, Gh0st RAT, PlugX"
+RTM <ESET>,"Financial, Accountants",RTM
+Sandworm Team <Trend Micro>:Iron Viking <SecureWorks>:Voodoo Bear <CrowdStrike>:Quedagh <F-Secure>:TEMP.Noble <FireEye>,"Education, Energy, Government, Telecommunications","BlackEnergy, Gcat and PassKillDisk"
+Samurai Panda <CrowdStrike>:APT 4 <Mandiant>:APT 4 <FireEye>:Wisp Team <Symantec>,"Defense, Government","Getkys, Sykipot, Wkysol"
+ScarCruft <Kaspersky>,Country level,"ROKRAT, Flashl 0day"
+Scarlet Mimic <Palo Alto>,Activists,"CallMe, FakeM, MobileOrder, Psylo"
+Sea Turtle <Talos>,"Defense, Energy, Government, Intelligence agencies","DNS hijacking, Drupalgeddon"
+Shadow Network <Information Warfare Monitor>,"Education, Government",ShadowNet
+Silence <Kaspersky>,Financial.,"Atmosphere, Silence"
+Sima <Amnesty International>,Country level,Sima
+Slingshot <Kaspersky>,Country level,"Cahnadr, GollumApp, Slingshot, WinBox"
+Snake Wine <Cylance>,"Commerce, Education, Government","Ham Backdoor, Tofu Backdoor"
+Snowglobe <CSEC>:Animal Farm <Kaspersky>,"Government, private","Babar, Casper, Dino, EvilBunny, Tafacalou, Nbot, Chocopop"
+Sofacy <Kaspersky>:APT 28 <Mandiant>:Fancy Bear <CrowdStrike>:Sednit <ESET>:Group 74 <Talos>:TG-4127 <SecureWorks>:Pawn Storm <Trend Micro>:Tsar Team <iSight>:Strontium <Microsoft>:Swallowtail <Symantec>:SIG40 <NSA>:Snakemackerel <iDefense>:Iron Twilight <SecureWorks>:Grizzly Steppe <US Government>,"Chemical, Defense, Embassies, Engineering, Government, Industrial, Intelligence organizations, Media, NGOs, Think Tanks","ADVSTORESHELL, Cannon, certutil, CHOPSTICK, Computrace, CORESHELL, DealersChoice, Downdelph, DownRange, Dropper, EVILTOSS, Foozer, Forfiles, HIDEDRV, JHUHUGIT, Koadic, Komplex, LoJax, Mimikatz, OLDBAIT, PocoDown, Responder, Sedkit, Sednit, Sedreco, Seduploader, Sofacy, SOURFACE, USBStealer, Winexe, WinIDS, X-Agent, X-Agent for Android, X-Agent OSX, XTunnel, Zebrocy"
+Sowbug <Symantec>,Government,"Felismus, StarLoader."
+Stalker Panda <Raytheon Blackbird Technologies>,"Engineering, Media, political","Elirks, SharpServer, Blogspot, XUni platform"
+Stealth Falcon <Citizen Lab>:FruityArmor <Kaspersky>,"Civil society groups, Emirati journalists, activists, dissidents",Various
+Stolen Pencil <ASERT>,"Education, Think Tanks",Mimikatz
+Stone Panda <CrowdStrike>:APT 10 <Mandiant>:menuPass Team <Symantec>:menuPass <Palo Alto>:Red Apollo <PwC>:CVNX <BAE Systems>:Potassium <Microsoft>:Hogfish <iDefense>:Happyyongzi <FireEye>,"Aerospace, Defense, Government, Healthcare, MSPs, Pharmaceutical","Anel, certutil, ChChes, Cobalt Strike, Emdivi, EvilGrab, Impacket, Mimikatz, PlugX, Poison Ivy, PowerSploit, pwdump, QuasarRAT, RedLeaves, SNUGRIDE, Trochilus RAT, UPPERCUT"
+Strider <Symantec>:ProjectSauron <Kaspersky>,"Defense, Embassies, Financial, Government, Scientific research centers, Telecommunications",Remsec
+Suckfly <Symantec>,"E-commerce, Entertainment, Financial, Government, Healthcare, Media, Shipping, Software development, Video game development","gsecdump, Nidiran, rcpscan, smbscan, wce"
+TA459 <Proofpoint>,Financial Analysts,"Gh0st RAT, NetTraveler, PlugX, ZeroT"
+TA505 <Proofpoint>,"Financial, Hospitality, Retail","Bart, Dridex, FlawedAmmy, FlawedGrace, GlobeImposter, Jaff, Kegotip, Locky, LOLBins, Necurs, Neutrino, Philadelphia, RockLoader, RMS, ServHelper, Shifu, The Trick"
+Taidoor <Trend Micro>,Government,Taidoor
+TeamSpy Crew <Kaspersky>:SIG39 <NSA>,Country level,"Malicious TeamViewer, Java RATs"
+TeleBots <ESET>,"Financial, Software companies, Transportation","Felixroot, GreyEnergy, NotPetya, TeleDoor"
+Temper Panda <Crowdstrike>:admin@338 <FireEye>:Team338 <Kaspersky>:Magnesium <Microsoft>,"Defense, Financial, Government, Media, Think Tanks","Bozok, BUBBLEWRAP, LOWBALL, Poison Ivy, Systeminfo"
+TEMP.Veles <FireEye>:Xenotime <Dragos>,"Critical infrastructure, Oil and gas","Cryptcat, HatMan, Mimikatz, NetExec, PSExec, SecHack, TRISIS, TRITON, Wii."
+Terbium <Microsoft>,Country level,Depriz
+Thrip <Symantec>,"Defense, Satellite, Telecommunications","Catchamas, Mimikatz, Rikamanu, Spedear, WMI Ghost"
+Transparent Tribe <Proofpoint>:APT 36 <Mandiant>:ProjectM <Palo Alto>:Mythic Leopard <CrowdStrike>:TEMP.Lapis <FireEye>,"Defense, Embassies, Government","Andromeda, beendoor, Bezigate, Bozok, BreachRAT, Crimson RAT, DarkComet, Luminosity RAT, njRAT, Peppy Trojan, UPDATESEE"
+Tropic Trooper <Trend Micro>,"Defense, Government, Healthcare, High-Tech, Transportation","KeyBoy, PCShare, Poison Ivy, Titan, Yahoyah, Winsloader"
+Turla <Kaspersky>:Waterbug <Symantec>:Venomous Bear <CrowdStrike>:Group 88 <Talos>:SIG23 <NSA>:Iron Hunter <SecureWorks>:Pacifier APT <Bitdefender>,"Defense, Education, Embassies, Energy, Government, High-Tech, Media, NGOs, Pharmaceutical, Research, Retail","AdobeARM, Agent.BTZ, Agent.DNE, ATI-Agent, Cobra Carbon System, ComRAT, Empire, Epic, Gazer, gpresult, HTML5 Encoding, IcedCoffeer, Kazuar, KopiLuwak, KRYPTON, KSL0T, LightNeuron, Maintools.js, Metasploit, Mimikatz, MiniDionis, Mosquito, Nautilus, nbtstat, Neuron, Outlook Backdoor, Penguin Turla, Pfinet, 
+Popeye, pwdump, Skipper, Snake, Systeminfo, Tasklist, Tavdig, Turla, Uroburos, wce, WhiteAtlas, WhiteBear, Wipbot, WITCHCOVEN, WRAITH"
+Urpage <Trend Micro>,Country level,Trojaned Android applications
+Volatile Cedar <Check Point>:Dancing Salome <Kaspersky>,"Education, Government, Hosting",Explosive
+Whitefly <Symantec>,"Engineering, Healthcare, Media, Telecommunications","Mimikatz, Nibatad, Termite, Vcrodat"
+Wicked Spider <CrowdStrike>:APT 22 <Mandiant>,Technology,"ETERNALBLUE, DOUBLEPULSAR, PlugX"
+Wild Neutron <Kaspersky>:Butterfly <Symantec>:Morpho <Symantec>:Sphinx Moth <Kudeslski>,"Bitcoin-related companies, Healthcare, Investment companies, IT, Real estate, lawyers, individual users","HesperBot, JripBot, WildNeutron, Various 0days"
+Winnti Group <Kaspersky>:Blackfly <Symantec>:Wicked Panda <CrowdStrike>,"Online video game companies, Pharmaceutical, Telecommunications","Cobalt Strike, Winnti"
+WindShift <DarkMatter>,Government,WindTail
+Achilles <AdvIntel>,"Defense, Government, private sectors",RDP
+Dungeon Spider <CrowdStrike>,Any/Commodity,Locky.
+Fxmsp <self given>,AV vendors,"RDP, Exposed AD"
+Gold Lowell <SecureWorks>:Boss Spider <CrowdStrike>,"Government, Healthcare","Mimikatz, PSExec, SamSam"
+Grim Spider <CrowdStrike>:TEMP.MixMaster <FireEye>,Any,Ryuk
+Indrik Spider <CrowdStrike>,Any/Commodity,"Dridex, BitPaymer"
+Mummy Spider <CrowdStrike>:TA542 <Proofpoint>,"Energy, Financial, Government, Healthcare, Manufacturing, Shipping and Logistics, Utilities, Technology","Emotet, Geodo"
+Operation Comando <Palo Alto>,Hospitality <specifically on hotel reservations>,CapturaTela
+Pacha Group <Intezer>,Any/Commodity,"Antd, DDG, GreedyAntd, Korkerds, XMRig"
+Pinchy Spider <CrowdStrike>,Any/Commodity,GandCrab
+Rocke <Talos>,Any/Commodity,"Apache Struts Vulnerabilities, Xbash "
+Wizard Spider <CrowdStrike>,Any/Commodity,"Dyre, Trickbot"
