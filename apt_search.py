@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+from tabulate import tabulate
 
 data = pd.read_csv(os.path.dirname(os.path.abspath(__file__)) + '\\thai_cert_apt_info.csv', sep=',', quotechar='"', encoding='utf8', na_values=[''])
 
@@ -19,7 +20,7 @@ def de_dupe_data(nested_list_to_de_dupe):
 def data_match(data,search_field):
     print "Type string to search for and hit return: \n"
     search = raw_input()
-    print data[data[search_field].str.contains(search, case=False)]
+    print(tabulate(data[data[search_field].str.contains(search, case=False)], headers='keys', tablefmt='psql', showindex=False))
     return
 
 apt = [x.upper() for x in list(dict.fromkeys(data_by_column(data['apt'])))]
