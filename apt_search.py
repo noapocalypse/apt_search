@@ -19,7 +19,7 @@ def de_dupe_data(nested_list_to_de_dupe):
 def data_match(data,search_field):
     print "Type string to search for and hit return: \n"
     search = raw_input()
-    print data[data[search_field].str.contains(search)]
+    print data[data[search_field].str.contains(search, case=False)]
     return
 
 apt = [x.upper() for x in list(dict.fromkeys(data_by_column(data['apt'])))]
